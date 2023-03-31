@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Back-end developer at LeanCode<br>⚡ Studying computer science at the Warsaw University of Technology ( <br>third year )<br>🌱 I’m currently learning Kubernetes<br>
+🔭 Back-end developer at LeanCode<br>⚡ Studying computer science at the Warsaw University of Technology (third year)<br>🌱 I’m currently learning Kubernetes<br>
 
 
 ## 🌐 Socials:
